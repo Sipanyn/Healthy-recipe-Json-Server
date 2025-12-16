@@ -16,7 +16,7 @@
       "servingCount": "1",
       "prepTime": "5 mins",
       "cookTime": "2 mins",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/Toast with Avocado and Tomato Slices.jpeg"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "servingCount": "2",
       "prepTime": "10 mins",
       "cookTime": "15 mins",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/Irresistible Salmon with Garlic Lemon Butter Sauce Recipe - One Day Cooking.jpeg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "servingCount": "2",
       "prepTime": "10 mins",
       "cookTime": "20 mins",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/Quinoa & Veggie Bowl.jpeg"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "servingCount": "2",
       "prepTime": "15 mins",
       "cookTime": "15 mins",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/SWEET POTATO BLACK BEAN QUESADILLAS.jpeg"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "servingCount": "1",
       "prepTime": "5 mins",
       "cookTime": "0 min",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/🍯 Greek Yogurt Parfait Recipe🍓.jpeg"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "servingCount": "4",
       "prepTime": "10 mins",
       "cookTime": "30 mins",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/Spinach and Lentil Soup_ A Healthy, Flavorful Delight! - Dishes Tasty _ Easy & Delicious Recipes.jpeg"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "servingCount": "3",
       "prepTime": "10 mins",
       "cookTime": "15 mins",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/Vanilla Cinnamon Buttermilk Pancakes Recipe (PDF Download).jpeg"
     }
   ]
 }
