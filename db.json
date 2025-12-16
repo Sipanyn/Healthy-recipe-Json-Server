@@ -7,7 +7,7 @@
       "servingCount": "2",
       "prepTime": "10 mins",
       "cookTime": "0 min",
-      "image": "images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "servingCount": "1",
       "prepTime": "5 mins",
       "cookTime": "2 mins",
-      "image": "images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "servingCount": "2",
       "prepTime": "10 mins",
       "cookTime": "15 mins",
-      "image": "images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "servingCount": "2",
       "prepTime": "10 mins",
       "cookTime": "20 mins",
-      "image": "images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "servingCount": "2",
       "prepTime": "15 mins",
       "cookTime": "15 mins",
-      "image": "images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "servingCount": "1",
       "prepTime": "5 mins",
       "cookTime": "0 min",
-      "image": "images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "servingCount": "4",
       "prepTime": "10 mins",
       "cookTime": "30 mins",
-      "image": "images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "servingCount": "3",
       "prepTime": "10 mins",
       "cookTime": "15 mins",
-      "image": "images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
     }
   ]
 }
