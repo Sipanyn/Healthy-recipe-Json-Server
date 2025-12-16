@@ -1,3 +1,76 @@
 {
-  "recipes": [{ "id": 1, "title": "json-server", "author": "typicode" }]
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Mediterranean Chickpea Salad",
+      "des": "A refreshing protein-packed salad tossed in a lemon-olive oil dressing.",
+      "servingCount": "2",
+      "prepTime": "10 mins",
+      "cookTime": "0 min",
+      "image": "images/- Mediterranean Salad.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Toast with Avocado and Tomato Slices",
+      "des": "A simple and healthy toast topped with creamy avocado and fresh tomato slices.",
+      "servingCount": "1",
+      "prepTime": "5 mins",
+      "cookTime": "2 mins",
+      "image": "images/- Mediterranean Salad.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Salmon with Garlic Lemon Butter Sauce",
+      "des": "Tender salmon fillets pan-seared and finished with a rich garlic lemon butter sauce.",
+      "servingCount": "2",
+      "prepTime": "10 mins",
+      "cookTime": "15 mins",
+      "image": "images/- Mediterranean Salad.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Quinoa & Veggie Bowl",
+      "des": "A nourishing bowl of fluffy quinoa topped with colorful roasted vegetables and a light dressing.",
+      "servingCount": "2",
+      "prepTime": "10 mins",
+      "cookTime": "20 mins",
+      "image": "images/- Mediterranean Salad.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Sweet Potato Black Bean Quesadillas",
+      "des": "Crispy quesadillas filled with roasted sweet potatoes, black beans, and melted cheese.",
+      "servingCount": "2",
+      "prepTime": "15 mins",
+      "cookTime": "15 mins",
+      "image": "images/- Mediterranean Salad.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Greek Yogurt Parfait",
+      "des": "A light and creamy parfait layered with Greek yogurt, fresh fruit, and crunchy granola.",
+      "servingCount": "1",
+      "prepTime": "5 mins",
+      "cookTime": "0 min",
+      "image": "images/- Mediterranean Salad.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Spinach and Lentil Soup",
+      "des": "A hearty and comforting soup made with tender lentils, fresh spinach, and warm spices.",
+      "servingCount": "4",
+      "prepTime": "10 mins",
+      "cookTime": "30 mins",
+      "image": "images/- Mediterranean Salad.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Vanilla Cinnamon Buttermilk Pancakes",
+      "des": "Fluffy buttermilk pancakes infused with warm cinnamon and sweet vanilla flavor.",
+      "servingCount": "3",
+      "prepTime": "10 mins",
+      "cookTime": "15 mins",
+      "image": "images/- Mediterranean Salad.jpeg"
+    }
+  ]
 }
