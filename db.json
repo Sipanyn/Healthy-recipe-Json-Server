@@ -7,7 +7,30 @@
       "servingCount": "2",
       "prepTime": "10 mins",
       "cookTime": "0 min",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/- Mediterranean Salad.jpeg",
+      "ingredients": [
+        "Chickpeas (1 can, rinsed)",
+        "Cucumber, diced",
+        "Red bell pepper, diced",
+        "Cherry tomatoes, halved",
+        "Red onion, finely chopped",
+        "Fresh parsley, chopped",
+        "Feta cheese (optional)",
+        "Olives (optional)"
+      ],
+      "dressing": [
+        "Olive oil",
+        "Lemon juice",
+        "Garlic, minced",
+        "Dried oregano",
+        "Salt & pepper"
+      ],
+      "steps": [
+        "Combine chickpeas, chopped vegetables, parsley, and feta in a bowl.",
+        "Whisk olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+        "Pour dressing over the salad and toss well.",
+        "Serve immediately or chill briefly for enhanced flavor"
+      ]
     },
     {
       "id": 2,
