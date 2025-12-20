@@ -39,7 +39,31 @@
       "servingCount": "1",
       "prepTime": "5 mins",
       "cookTime": "2 mins",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/Toast with Avocado and Tomato Slices.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/Toast with Avocado and Tomato Slices.jpeg",
+      "ingredients": [
+        "1 slice whole‑grain bread",
+        "1/2 ripe avocado",
+        "3–4 tomato slices",
+        "1 tsp lemon juice",
+        "Salt to taste",
+        "Black pepper to taste",
+        "Olive oil (optional)"
+      ],
+
+      "dressing": [
+        "1 tsp lemon juice",
+        "Pinch of salt",
+        "Pinch of black pepper",
+        "Drizzle of olive oil (optional)"
+      ],
+
+      "steps": [
+        "Toast the bread until golden and crisp.",
+        "Mash the avocado with lemon juice, salt, and pepper.",
+        "Spread the mashed avocado over the toast.",
+        "Top with fresh tomato slices.",
+        "Drizzle with olive oil if desired and serve immediately."
+      ]
     },
     {
       "id": 3,
