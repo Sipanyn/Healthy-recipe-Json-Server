@@ -72,7 +72,38 @@
       "servingCount": "2",
       "prepTime": "10 mins",
       "cookTime": "15 mins",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/Irresistible Salmon with Garlic Lemon Butter Sauce Recipe - One Day Cooking.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/Irresistible Salmon with Garlic Lemon Butter Sauce Recipe - One Day Cooking.jpeg",
+      "ingredients": [
+        "2 salmon fillets",
+        "1 tbsp olive oil",
+        "2 tbsp butter",
+        "3 cloves garlic, minced",
+        "1 tbsp lemon juice",
+        "1 tsp lemon zest",
+        "Salt to taste",
+        "Black pepper to taste",
+        "Fresh parsley for garnish"
+      ],
+
+      "dressing": [
+        "2 tbsp butter",
+        "3 cloves garlic, minced",
+        "1 tbsp lemon juice",
+        "1 tsp lemon zest",
+        "Pinch of salt",
+        "Pinch of black pepper"
+      ],
+
+      "steps": [
+        "Season the salmon fillets with salt and pepper.",
+        "Heat olive oil in a pan over medium-high heat.",
+        "Sear the salmon for 3–4 minutes per side until golden and cooked through.",
+        "Remove salmon and reduce heat to medium.",
+        "Add butter to the pan, then stir in garlic and cook until fragrant.",
+        "Add lemon juice and zest to create the sauce.",
+        "Return salmon to the pan and spoon the garlic lemon butter over the fillets.",
+        "Garnish with parsley and serve warm."
+      ]
     },
     {
       "id": 4,
@@ -81,7 +112,35 @@
       "servingCount": "2",
       "prepTime": "10 mins",
       "cookTime": "20 mins",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/Quinoa & Veggie Bowl.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/Quinoa & Veggie Bowl.jpeg",
+
+      "ingredients": [
+        "1 cup cooked quinoa",
+        "1/2 cup roasted sweet potatoes",
+        "1/2 cup roasted zucchini",
+        "1/2 cup roasted bell peppers",
+        "1/4 cup cherry tomatoes, halved",
+        "1/4 cup chickpeas (optional)",
+        "Fresh spinach or mixed greens",
+        "Salt and pepper to taste"
+      ],
+
+      "dressing": [
+        "1 tbsp olive oil",
+        "1 tbsp lemon juice",
+        "1 tsp honey or maple syrup",
+        "1/2 tsp Dijon mustard",
+        "Pinch of salt",
+        "Pinch of black pepper"
+      ],
+
+      "steps": [
+        "Cook the quinoa according to package instructions and let it cool slightly.",
+        "Roast the vegetables with olive oil, salt, and pepper until tender.",
+        "Whisk together olive oil, lemon juice, honey, mustard, salt, and pepper to make the dressing.",
+        "Assemble the bowl with quinoa, roasted vegetables, greens, and tomatoes.",
+        "Drizzle with the dressing and toss gently before serving."
+      ]
     },
     {
       "id": 5,
@@ -90,7 +149,32 @@
       "servingCount": "2",
       "prepTime": "15 mins",
       "cookTime": "15 mins",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/SWEET POTATO BLACK BEAN QUESADILLAS.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/SWEET POTATO BLACK BEAN QUESADILLAS.jpeg",
+      "ingredients": [
+        "1 medium sweet potato, peeled and diced",
+        "1/2 cup black beans, rinsed and drained",
+        "1/2 cup shredded cheese (cheddar or Mexican blend)",
+        "2 large flour tortillas",
+        "1 tbsp olive oil",
+        "1/2 tsp cumin",
+        "1/2 tsp smoked paprika",
+        "Salt and pepper to taste"
+      ],
+
+      "dressing": [
+        "2 tbsp sour cream or Greek yogurt",
+        "1 tsp lime juice",
+        "Pinch of salt",
+        "Pinch of black pepper"
+      ],
+
+      "steps": [
+        "Roast the diced sweet potato with olive oil, cumin, paprika, salt, and pepper until tender.",
+        "Mash the roasted sweet potato lightly and mix with black beans.",
+        "Spread the mixture onto one half of each tortilla and top with shredded cheese.",
+        "Fold the tortillas in half and cook in a skillet until golden and crispy on both sides.",
+        "Slice and serve with the lime‑yogurt dressing."
+      ]
     },
     {
       "id": 6,
@@ -99,7 +183,28 @@
       "servingCount": "1",
       "prepTime": "5 mins",
       "cookTime": "0 min",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/🍯 Greek Yogurt Parfait Recipe🍓.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/🍯 Greek Yogurt Parfait Recipe🍓.jpeg",
+
+      "ingredients": [
+        "1 cup Greek yogurt",
+        "1/2 cup fresh berries (strawberries, blueberries, or raspberries)",
+        "1/4 cup granola",
+        "1 tbsp honey or maple syrup",
+        "1/2 tsp vanilla extract (optional)"
+      ],
+
+      "dressing": [
+        "1 tbsp honey or maple syrup",
+        "1/2 tsp vanilla extract (optional)"
+      ],
+
+      "steps": [
+        "Mix the Greek yogurt with honey and vanilla extract if using.",
+        "Spoon a layer of yogurt into a glass or bowl.",
+        "Add a layer of fresh berries followed by granola.",
+        "Repeat the layers until the ingredients are used.",
+        "Top with extra berries and a drizzle of honey before serving."
+      ]
     },
     {
       "id": 7,
@@ -108,7 +213,35 @@
       "servingCount": "4",
       "prepTime": "10 mins",
       "cookTime": "30 mins",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/Spinach and Lentil Soup_ A Healthy, Flavorful Delight! - Dishes Tasty _ Easy & Delicious Recipes.jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/Spinach and Lentil Soup_ A Healthy, Flavorful Delight! - Dishes Tasty _ Easy & Delicious Recipes.jpeg",
+
+      "ingredients": [
+        "1 cup dried lentils, rinsed",
+        "1 tbsp olive oil",
+        "1 onion, diced",
+        "2 carrots, diced",
+        "2 garlic cloves, minced",
+        "1 tsp cumin",
+        "1/2 tsp turmeric",
+        "4 cups vegetable broth",
+        "2 cups fresh spinach",
+        "Salt and pepper to taste"
+      ],
+
+      "dressing": [
+        "1 tbsp lemon juice",
+        "Pinch of salt",
+        "Pinch of black pepper"
+      ],
+
+      "steps": [
+        "Heat olive oil in a pot and sauté the onion, carrots, and garlic until softened.",
+        "Stir in cumin and turmeric and cook briefly until fragrant.",
+        "Add the lentils and vegetable broth, then bring to a boil.",
+        "Reduce heat and simmer for 20–25 minutes until lentils are tender.",
+        "Stir in fresh spinach and cook until wilted.",
+        "Season with salt, pepper, and lemon juice before serving."
+      ]
     },
     {
       "id": 8,
@@ -117,7 +250,35 @@
       "servingCount": "3",
       "prepTime": "10 mins",
       "cookTime": "15 mins",
-      "image": "https://healthy-recipe-json-server.vercel.app/images/Vanilla Cinnamon Buttermilk Pancakes Recipe (PDF Download).jpeg"
+      "image": "https://healthy-recipe-json-server.vercel.app/images/Vanilla Cinnamon Buttermilk Pancakes Recipe (PDF Download).jpeg",
+
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "1 tbsp sugar",
+        "1 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1/2 tsp cinnamon",
+        "1/4 tsp salt",
+        "1 cup buttermilk",
+        "1 large egg",
+        "1 tbsp melted butter",
+        "1 tsp vanilla extract"
+      ],
+
+      "dressing": [
+        "2 tbsp maple syrup",
+        "1 tbsp melted butter",
+        "Pinch of cinnamon (optional)"
+      ],
+
+      "steps": [
+        "Whisk together flour, sugar, baking powder, baking soda, cinnamon, and salt in a bowl.",
+        "In a separate bowl, mix buttermilk, egg, melted butter, and vanilla extract.",
+        "Combine the wet and dry ingredients, stirring gently until just mixed.",
+        "Heat a lightly greased pan over medium heat and pour in the batter.",
+        "Cook until bubbles form on the surface, then flip and cook until golden.",
+        "Serve warm with maple syrup, melted butter, and a sprinkle of cinnamon."
+      ]
     }
   ]
 }
